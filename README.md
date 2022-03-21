@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Mobeen Ghaffar
-[![wakatime](https://wakatime.com/badge/user/95cc268b-6e4f-469d-8aee-c933dee3f3be.svg)](https://wakatime.com/@95cc268b-6e4f-469d-8aee-c933dee3f3be)
+[![wakatime](https://wakatime.com/badge/user/4ef6a36f-05a3-448f-8c8e-9fa1c37e18cd.svg)](https://wakatime.com/@4ef6a36f-05a3-448f-8c8e-9fa1c37e18cd)
 
 Skills: PYTHON / NODE.JS / C# / GO
 
