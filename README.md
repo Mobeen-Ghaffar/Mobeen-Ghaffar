@@ -10,7 +10,7 @@ Skills: PYTHON / NODE.JS / C# / GO
   <a href= "https://github.com/Mobeen22-creator">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
   </a>
-  <a href= "https://www.linkedin.com/in/hassan-zafar-ayoub/">
+  <a href= "https://www.linkedin.com/in/mobeen-ghaffar-40929614b/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
 
