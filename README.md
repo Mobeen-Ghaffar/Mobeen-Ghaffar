@@ -2,7 +2,7 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/91d76a95-4321-45bd-80da-e6e3a1287396.svg)](https://wakatime.com/@91d76a95-4321-45bd-80da-e6e3a1287396) -->
 
 
-Skills: PYTHON / NODE.JS / C# / GO
+Skills: PYTHON / NODE.JS / C# / GO / Ruby On Rails 
 
 - 🔭 I’m currently working as a Desktop Application(Window & MAC) and Automation Developer.
 - 🌱 I’m currently learning Blockchain Development, Dapps and Advance methodology of software engineering.
