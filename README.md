@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Mobeen Ghaffar
-[![wakatime](https://wakatime.com/badge/user/91d76a95-4321-45bd-80da-e6e3a1287396.svg)](https://wakatime.com/@91d76a95-4321-45bd-80da-e6e3a1287396)
+<!-- [![wakatime](https://wakatime.com/badge/user/91d76a95-4321-45bd-80da-e6e3a1287396.svg)](https://wakatime.com/@91d76a95-4321-45bd-80da-e6e3a1287396) -->
 
 
 Skills: PYTHON / NODE.JS / C# / GO
@@ -43,5 +43,5 @@ Skills: PYTHON / NODE.JS / C# / GO
 <!-- [![Mobeen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mobeen22-creator)](https://github-readme-stats.vercel.app/api/wakatime?username=Mobeen22-creator)
  -->
   <p>
-    <img src="https://wakatime.com/badge/user/91d76a95-4321-45bd-80da-e6e3a1287396.svg" height="300" width="500">
+<!--     <img src="https://wakatime.com/badge/user/91d76a95-4321-45bd-80da-e6e3a1287396.svg" height="300" width="500"> -->
   </p>
