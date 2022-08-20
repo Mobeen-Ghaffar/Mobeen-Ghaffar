@@ -4,7 +4,7 @@
 
 Skills: PYTHON / NODE.JS / C# / GO / Ruby On Rails 
 
-- 🔭 I’m currently working as a Desktop Application(Window & MAC) and Automation Developer.
+- 🔭 I’m currently working as a Full Stack and Automation Developer.
 - 🌱 I’m currently learning Blockchain Development, Dapps and Advance methodology of software engineering.
 
 <p align="center">
