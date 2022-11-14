@@ -38,9 +38,9 @@ Skills: PYTHON / NODE.JS / C# / GO / Ruby On Rails
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mobeen-Ghaffar&&show_icons=true&count_private=true&hide_border=true&theme=radical)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mobeen-Ghaffar&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/Mobeen22-creator)  
+![GitHub metrics](https://metrics.lecoq.io/Mobeen-Ghaffar)  
 
-<!-- [![Mobeen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mobeen22-creator)](https://github-readme-stats.vercel.app/api/wakatime?username=Mobeen22-creator)
+<!-- [![Mobeen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mobeen-Ghaffar)](https://github-readme-stats.vercel.app/api/wakatime?username=Mobeen22-creator)
  -->
   <p>
 <!--     <img src="https://wakatime.com/badge/user/91d76a95-4321-45bd-80da-e6e3a1287396.svg" height="300" width="500"> -->
