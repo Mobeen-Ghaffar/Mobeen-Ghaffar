@@ -32,11 +32,11 @@ Skills: PYTHON / NODE.JS / C# / GO / Ruby On Rails
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mobeen22-creator&margin-w=25&margin-h=25&column=7&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mobeen22-creator&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mobeen-Ghaffar&margin-w=25&margin-h=25&column=7&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mobeen-Ghaffar&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mobeen22-creator&&show_icons=true&count_private=true&hide_border=true&theme=radical)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mobeen22-creator&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mobeen-Ghaffar&&show_icons=true&count_private=true&hide_border=true&theme=radical)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mobeen-Ghaffar&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/Mobeen22-creator)  
 
